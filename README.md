@@ -1,2 +1,2 @@
 # Combinatorial-Optimization
-Some combinatorial optimization problem in Python
+Some combinatorial optimization problems in Python
